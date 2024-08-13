@@ -1,5 +1,5 @@
 {
-  "name": "02_Monorepo",
+  "name": "02_Monorepo_2",
   "private": true,
   "scripts": {
     "build": "turbo build",
